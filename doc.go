@@ -1,4 +1,4 @@
 /*
-Package sguid Sequential Globally Unique ID generator
- */
+Package sguid Sequential Globally Unique ID
+*/
 package sguid
